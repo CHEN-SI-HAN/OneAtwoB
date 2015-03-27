@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">1A2B</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input">請輸入數字：</string>
+    <string name="begin">確定</string>
+    <string name="hint">請輸入四個數字</string>
+    <string name="cont">繼續</string>
+    <string name="quit">離開</string>
+
+</resources>
